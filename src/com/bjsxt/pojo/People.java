@@ -10,6 +10,7 @@ public class People {
 		super();
 		System.out.println("执行构造方法");
 		System.out.println("执行构造方法");
+		System.out.println("执行构造方法");
 	}
 	public int getId() {
 		return id;
